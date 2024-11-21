@@ -1,0 +1,27 @@
+﻿@{
+    ViewBag.Title = "Video Downloader";
+}
+
+<h2>Video Downloader</h2>
+
+<form method="post" action="/Video/ProcessVideo">
+    <label for="videoUrl">Nhập URL video:</label>
+    <input type="text" id="videoUrl" name="videoUrl" placeholder="https://..." required />
+    <button type="submit">Tải video</button>
+</form>
+
+@if (ViewBag.DownloadLink != null)
+{
+    <h3>Video của bạn:</h3>
+    <video width="600" controls>
+        <source src="@ViewBag.PreviewUrl" type="video/mp4">
+        Trình duyệt không hỗ trợ video.
+    </video>
+
+    <h3>Video đã sẵn sàng:</h3>
+    <p><a href="@ViewBag.DownloadLink" download>Tải video xuống</a></p>
+}
+else if (ViewBag.Message != null)
+{
+    <p style="color: red;">@ViewBag.Message</p>
+}

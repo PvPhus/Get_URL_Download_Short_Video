@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Get_Url_Download_Short_Video\\Download_Video\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8BF1F8-4F69-4505-92F2-C51DD451F19C}|Download_Video\\Download_Video.csproj|d:\\get_url_download_short_video\\download_video\\download_video\\controllers\\videocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B8BF1F8-4F69-4505-92F2-C51DD451F19C}|Download_Video\\Download_Video.csproj|solutionrelative:download_video\\controllers\\videocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8BF1F8-4F69-4505-92F2-C51DD451F19C}|Download_Video\\Download_Video.csproj|D:\\Get_Url_Download_Short_Video\\Download_Video\\download_video\\views\\video\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B8BF1F8-4F69-4505-92F2-C51DD451F19C}|Download_Video\\Download_Video.csproj|solutionrelative:download_video\\views\\video\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8BF1F8-4F69-4505-92F2-C51DD451F19C}|Download_Video\\Download_Video.csproj|D:\\Get_Url_Download_Short_Video\\Download_Video\\download_video\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B8BF1F8-4F69-4505-92F2-C51DD451F19C}|Download_Video\\Download_Video.csproj|solutionrelative:download_video\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8BF1F8-4F69-4505-92F2-C51DD451F19C}|Download_Video\\Download_Video.csproj|D:\\Get_Url_Download_Short_Video\\Download_Video\\download_video\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4B8BF1F8-4F69-4505-92F2-C51DD451F19C}|Download_Video\\Download_Video.csproj|solutionrelative:download_video\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8BF1F8-4F69-4505-92F2-C51DD451F19C}|Download_Video\\Download_Video.csproj|D:\\Get_Url_Download_Short_Video\\Download_Video\\download_video\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B8BF1F8-4F69-4505-92F2-C51DD451F19C}|Download_Video\\Download_Video.csproj|solutionrelative:download_video\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "D:\\Get_Url_Download_Short_Video\\Download_Video\\Download_Video\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "Download_Video\\App_Start\\RouteConfig.cs",
+              "ToolTip": "D:\\Get_Url_Download_Short_Video\\Download_Video\\Download_Video\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "Download_Video\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T09:39:25.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Get_Url_Download_Short_Video\\Download_Video\\Download_Video\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Download_Video\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Get_Url_Download_Short_Video\\Download_Video\\Download_Video\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Download_Video\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T09:15:05.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Get_Url_Download_Short_Video\\Download_Video\\Download_Video\\Views\\Video\\Index.cshtml",
+              "RelativeDocumentMoniker": "Download_Video\\Views\\Video\\Index.cshtml",
+              "ToolTip": "D:\\Get_Url_Download_Short_Video\\Download_Video\\Download_Video\\Views\\Video\\Index.cshtml",
+              "RelativeToolTip": "Download_Video\\Views\\Video\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T09:12:30.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VideoController.cs",
+              "DocumentMoniker": "D:\\Get_Url_Download_Short_Video\\Download_Video\\Download_Video\\Controllers\\VideoController.cs",
+              "RelativeDocumentMoniker": "Download_Video\\Controllers\\VideoController.cs",
+              "ToolTip": "D:\\Get_Url_Download_Short_Video\\Download_Video\\Download_Video\\Controllers\\VideoController.cs",
+              "RelativeToolTip": "Download_Video\\Controllers\\VideoController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwDIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T09:11:42.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\Get_Url_Download_Short_Video\\Download_Video\\Download_Video\\Web.config",
+              "RelativeDocumentMoniker": "Download_Video\\Web.config",
+              "ToolTip": "D:\\Get_Url_Download_Short_Video\\Download_Video\\Download_Video\\Web.config",
+              "RelativeToolTip": "Download_Video\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-20T09:04:03.686Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
